@@ -1,10 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9a8709f-20ca-4c11-a58d-18276a1fc253" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialTabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/bottomNav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/bottomNav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/duckSearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/fourChanPol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/jumbScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navtool.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/socialPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/twitterCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/youTube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/media/national.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dYYX8llhQxpnCXHLCOTmz1VTFH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cyranosfoil.com" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a8709f-20ca-4c11-a58d-18276a1fc253" name="Default Changelist" comment="" />
+      <created>1592603530060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592603530060</updated>
+      <workItem from="1592603531827" duration="6116000" />
+      <workItem from="1592663838088" duration="11594000" />
+      <workItem from="1592762149331" duration="4967000" />
+      <workItem from="1592768249470" duration="1664000" />
+      <workItem from="1592858583223" duration="43000" />
+      <workItem from="1592865111268" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="173" key="FileChooserDialogImpl" timestamp="1592603687803">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="550" y="173" key="FileChooserDialogImpl/0.0.1536.834/3840.521.1920.1080/0.2160.2194.629@0.0.1536.834" timestamp="1592603687803" />
+    <state x="445" y="242" key="com.intellij.ide.util.TipDialog" timestamp="1592858586839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="445" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834/0.2160.2194.629/3840.521.1920.1080@0.0.1536.834" timestamp="1592858586839" />
+    <state x="445" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834/3840.521.1920.1080/0.2160.2194.629@0.0.1536.834" timestamp="1592762168267" />
+    <state x="445" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1592768250045" />
+    <state x="527" y="160" width="766" height="610" key="find.popup" timestamp="1592616911437">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="527" y="160" width="766" height="610" key="find.popup/0.0.1536.834/3840.521.1920.1080/0.2160.2194.629@0.0.1536.834" timestamp="1592616911437" />
   </component>
 </project>
